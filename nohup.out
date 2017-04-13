@@ -1,0 +1,578 @@
+Listening on port 3000...
+The file was saved!
+/Users/accounts/workspaces/github/aws-nodejs-sample/routes/routes.js:21
+}
+^
+SyntaxError: missing ) after argument list
+    at Object.exports.runInThisContext (vm.js:73:16)
+    at Module._compile (module.js:543:28)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/Users/accounts/workspaces/github/aws-nodejs-sample/app.js:8:14)
+    at Module._compile (module.js:571:32)
+Listening on port 3000...
+The file was saved!
+Listening on port 3000...
+The file was saved!
+Listening on port 3000...
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+Listening on port 3000...
+Listening on port 3000...
+SyntaxError: Unexpected token '
+    at parse (/home/pi/polly/node_modules/body-parser/lib/types/json.js:83:15)
+    at /home/pi/polly/node_modules/body-parser/lib/read.js:116:18
+    at invokeCallback (/home/pi/polly/node_modules/raw-body/index.js:262:16)
+    at done (/home/pi/polly/node_modules/raw-body/index.js:251:7)
+    at IncomingMessage.onEnd (/home/pi/polly/node_modules/raw-body/index.js:307:7)
+    at emitNone (events.js:86:13)
+    at IncomingMessage.emit (events.js:185:7)
+    at endReadableNT (_stream_readable.js:974:12)
+    at _combinedTickCallback (internal/process/next_tick.js:74:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:122:9)
+SyntaxError: Unexpected token '
+    at parse (/home/pi/polly/node_modules/body-parser/lib/types/json.js:83:15)
+    at /home/pi/polly/node_modules/body-parser/lib/read.js:116:18
+    at invokeCallback (/home/pi/polly/node_modules/raw-body/index.js:262:16)
+    at done (/home/pi/polly/node_modules/raw-body/index.js:251:7)
+    at IncomingMessage.onEnd (/home/pi/polly/node_modules/raw-body/index.js:307:7)
+    at emitNone (events.js:86:13)
+    at IncomingMessage.emit (events.js:185:7)
+    at endReadableNT (_stream_readable.js:974:12)
+    at _combinedTickCallback (internal/process/next_tick.js:74:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:122:9)
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+Listening on port 3000...
+Listening on port 3000...
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+SyntaxError: Unexpected token < in JSON at position 22
+    at Object.parse (native)
+    at parse (/home/pi/polly/node_modules/body-parser/lib/types/json.js:88:17)
+    at /home/pi/polly/node_modules/body-parser/lib/read.js:116:18
+    at invokeCallback (/home/pi/polly/node_modules/raw-body/index.js:262:16)
+    at done (/home/pi/polly/node_modules/raw-body/index.js:251:7)
+    at IncomingMessage.onEnd (/home/pi/polly/node_modules/raw-body/index.js:307:7)
+    at emitNone (events.js:86:13)
+    at IncomingMessage.emit (events.js:185:7)
+    at endReadableNT (_stream_readable.js:974:12)
+    at _combinedTickCallback (internal/process/next_tick.js:74:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:122:9)
+The file was saved!
+Listening on port 3000...
+Listening on port 3000...
+The file was saved!
+The file was saved!
+The file was saved!
+The file was saved!
+Listening on port 3000...
+The file was saved!
+Listening on port 3000...
+/home/pi/polly/node_modules/aws-sdk/lib/request.js:31
+            throw err;
+            ^
+
+Error: Cannot find module 'uuid/v4'
+    at Function.Module._resolveFilename (module.js:469:15)
+    at Function.Module._load (module.js:417:25)
+    at Module.require (module.js:497:17)
+    at require (internal/module.js:20:19)
+    at Response.Polly.synthesizeSpeech (/home/pi/polly/routes/routes.js:42:18)
+    at Request.<anonymous> (/home/pi/polly/node_modules/aws-sdk/lib/request.js:360:18)
+    at Request.callListeners (/home/pi/polly/node_modules/aws-sdk/lib/sequential_executor.js:105:20)
+    at Request.emit (/home/pi/polly/node_modules/aws-sdk/lib/sequential_executor.js:77:10)
+    at Request.emit (/home/pi/polly/node_modules/aws-sdk/lib/request.js:673:14)
+    at Request.transition (/home/pi/polly/node_modules/aws-sdk/lib/request.js:22:10)
+Listening on port 3000...
+The file was saved: ./64cb4841-4658-451e-8dc6-a0128b2d37c0.mp3
+
+The file was saved: ./5c637f63-3b87-47ce-a544-a5e9df310db7.mp3
+
+Listening on port 3000...
+Listening on port 3000...
+The file was saved: ./3d0e2f62-64f6-4153-b6de-2ea07e539e42.mp3
+
+The file was saved: ./5a646c7a-bc03-409c-90b3-33113df39e45.mp3
+
+The file was saved: ./1fd4359b-9e90-47fa-bb1e-44ca1765b5d6.mp3
+
+The file was saved: ./f83b06e6-0ff3-442f-a578-8b0128adc0d4.mp3
+
+The file was saved: ./67905f35-cee0-40b9-b4a2-713e172adf3d.mp3
+
+The file was saved: ./0fd0294d-6a71-4774-b043-90270e096733.mp3
+
+Listening on port 3000...
+Listening on port 3000...
+The file was saved: ./13bbfd7f-f326-4b46-81c7-69f6da350445.mp3
+
+The file was saved: ./b7268028-228d-4cea-90f1-80c6f5b8c057.mp3
+
+The file was saved: ./d89a6ee5-ead1-4f63-8a66-d18a5fd8ebf7.mp3
+
+The file was saved: ./e38d1d3f-e062-4e2d-b201-7f55f783bbf5.mp3
+
+The file was saved: ./88faf5c9-f7e0-4784-a1d0-feb31932fdcd.mp3
+
+The file was saved: ./46dcee80-05b3-4d78-bf47-c2f11d241a32.mp3
+
+The file was saved: ./7feea5cf-620c-45ff-a90d-b290c8d861b5.mp3
+
+The file was saved: ./f3b26e34-a160-4c56-a488-7eaf419072d6.mp3
+
+The file was saved: ./f9b58425-d0dd-4f7a-bf44-26d14dccd6a8.mp3
+
+The file was saved: ./d08186c2-65b3-4425-9cb5-8d44b9aee5c9.mp3
+
+The file was saved: ./38c3dbf2-4d3a-4e6d-b9ef-d8177752a41a.mp3
+
+The file was saved: ./992f0b1e-7cdf-49b8-8fc6-48517f5523ad.mp3
+
+The file was saved: ./6df127b7-cd0c-4627-8c97-07d45338066c.mp3
+
+The file was saved: ./1e7176d4-7287-48d6-859d-4174de9bce6c.mp3
+
+The file was saved: ./0b5c4c0d-4aac-481a-bfc9-e5516850b2f1.mp3
+
+The file was saved: ./f9a11292-59cd-4886-ae01-0280e23d9de4.mp3
+
+The file was saved: ./741a6953-de9f-48db-82f3-466af450a4d0.mp3
+
+The file was saved: ./27bbb006-e0ff-45e3-bab5-2c06eac20291.mp3
+
+The file was saved: ./a67b2f56-e9ff-4507-9d8e-17a036230395.mp3
+
+The file was saved: ./981876ea-7d23-49b1-b837-6bb786317952.mp3
+
+The file was saved: ./4d332618-cba2-4b19-91cf-562241ac3e65.mp3
+
+The file was saved: ./7c3108a9-cabc-413e-bc69-eeaf7ba7258f.mp3
+
+The file was saved: ./d9d1d1c3-f8ef-417c-96fc-e4a3f6da3ee6.mp3
+
+The file was saved: ./3b7b486e-6408-48e4-9988-5cb462c50d99.mp3
+
+The file was saved: ./5c605407-c7be-4e82-a9f8-6faea78671e3.mp3
+
+The file was saved: ./7ef23bd1-6bd7-4262-bff1-b3e89611bff2.mp3
+
+The file was saved: ./0c36612e-6484-421a-80da-86e6352ff837.mp3
+
+The file was saved: ./b4e18148-5973-4950-b845-26c555af7b80.mp3
+
+The file was saved: ./504a09f5-9e1f-4a17-93d0-d68916c9d028.mp3
+
+The file was saved: ./0a98fcbf-fad7-4a6e-9e0f-66e06fa0d989.mp3
+
+The file was saved: ./7c5e08a6-d2bb-45d0-9ef2-cb02966f3886.mp3
+
+The file was saved: ./5c83cd5d-a570-45f8-887f-3ed6ac92a7dd.mp3
+
+The file was saved: ./31bcf394-058d-4ca2-8e99-7260030f0771.mp3
+
+The file was saved: ./ae2edd79-ea1f-4476-8071-63e5933e1873.mp3
+
+The file was saved: ./5ea7d17c-7953-4fb8-9c0b-a79e72d7bdb5.mp3
+
+The file was saved: ./18e3e2b5-64ed-452f-8f93-9ea0fb4c4ba2.mp3
+
+The file was saved: ./3db65fe4-62ee-4cda-a873-54885cf20add.mp3
+
+The file was saved: ./3629a7bf-ab9e-46c4-b7da-20d06ed2277f.mp3
+
+The file was saved: ./f9bf272c-8d3d-420e-ad0c-84612cc95ffc.mp3
+
+The file was saved: ./93a79002-5487-4f7e-8c1e-39ce33630477.mp3
+
+The file was saved: ./3eed9d52-4233-4316-a780-cb0a6ef65402.mp3
+
+The file was saved: ./02b46c57-0517-4664-bc69-e8990d9ce6f5.mp3
+
+The file was saved: ./34ee6b55-27a5-4261-88f3-9c6ac903cb97.mp3
+
+The file was saved: ./683e00f3-7e77-4aa2-ab28-0d3962b2c758.mp3
+
+The file was saved: ./3dcd4584-d583-4175-89fd-bc9b2bb6ac35.mp3
+
+The file was saved: ./5d485afe-925e-4d2e-be60-a45dc440eb93.mp3
+
+The file was saved: ./24904af5-d9a8-41dd-b03e-f0c78d0c67a9.mp3
+
+The file was saved: ./bca17af0-5eb4-4fa7-9a50-7fa4f62c2ec9.mp3
+
+The file was saved: ./ba61781d-d3c7-4cb8-a2b2-6f491b170d9d.mp3
+
+The file was saved: ./20bdb99c-95bb-4b1d-95e2-373ccb8d1b38.mp3
+
+The file was saved: ./ff3b3e22-207a-408f-8553-20116fbe78dc.mp3
+
+The file was saved: ./2b78df93-0f1a-4751-862c-044a9d4749d1.mp3
+
+The file was saved: ./5cb56f02-7a3a-4140-ad1e-153263fddb37.mp3
+
+The file was saved: ./1f1efd7c-e678-4f8e-bc3e-02418785fc60.mp3
+
+The file was saved: ./2f1efc38-366e-440c-a1d5-f4209952e22d.mp3
+
+The file was saved: ./4be8e0c4-8c1b-40d1-b161-2ac42b473c2f.mp3
+
+The file was saved: ./0d1808ea-cf07-4c35-ae4a-7b8449e594e7.mp3
+
+The file was saved: ./045f6dc9-3b2a-401a-b124-7094b48b026e.mp3
+
+The file was saved: ./de12622e-5174-4a4c-8779-1340c868abc1.mp3
+
+The file was saved: ./3511a04b-36f0-4647-b922-ec5ff6f4a6f5.mp3
+
+The file was saved: ./fde0487d-2fba-4dc9-bd7d-8e803532ef4f.mp3
+
+The file was saved: ./6fa6d65c-dd43-4252-8216-50c366a1bd25.mp3
+
+[33mwarn[39m:    --minUptime not set. Defaulting to: 1000ms
+[33mwarn[39m:    --spinSleepTime not set. Your script will exit if it does not stay up for at least 1000ms
+[32minfo[39m:    Forever processing file: [90mapp.js[39m

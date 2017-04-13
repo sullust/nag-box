@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "aws-sdk": ">= 2.0.9",
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "node-switchmate": "0.0.2",
+    "node-uuid": ">= 1.4.1",
+    "uuid": "^3.0.1"
+  }
+}
