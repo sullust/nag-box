@@ -20,7 +20,7 @@ var appRouter = function(app) {
 
     app.get("/run", function(req, res) {
         var exec = require('child_process').exec;
-        var cmd = '/home/pi/announceList.sh /home/pi/for-reals.txt';
+        var cmd = '/home/pi/polly/announceList.sh /home/pi/for-reals.txt';
 
         exec(cmd, function(error, stdout, stderr) {});
 
