@@ -3,7 +3,15 @@
 IFS='
 '
 
+
 if [[ -z $1 ]]; then echo "need input file"; exit 1; fi
+
+SOURCE_FILE_DIR=$(dirname $1);
+SOURCE_FILE_NAME=$(basename $1);
+
+cd $SOURCE_FILE_DIR
+
+/home/pi/polly/dropbox_uploader.sh download $SOURCE_FILE_NAME
 
 DATE=$(date "+%I:%M%p");
 

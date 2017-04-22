@@ -17,10 +17,17 @@ const Polly = new AWS.Polly({
 
 
 var appRouter = function(app) {
+   app.get("/foo" , function(req, res) {
+	return res.send("");
+    });
+   
+    app.get("/bar" , function(req, res) {
+        return res.send("");
+    });
 
     app.get("/run", function(req, res) {
         var exec = require('child_process').exec;
-        var cmd = '/home/pi/polly/announceList.sh /home/pi/for-reals.txt';
+        var cmd = '/home/pi/polly/announceList.sh /home/pi/polly/for-reals.txt';
 
         exec(cmd, function(error, stdout, stderr) {});
 
@@ -49,7 +56,7 @@ var appRouter = function(app) {
                 } else if (data) {
                     if (data.AudioStream instanceof Buffer) {
                         const uuidV4 = require('uuid/v4');
-                        file = "./" + uuidV4() + ".mp3"
+                        file = "/home/pi/polly/" + uuidV4() + ".mp3"
                         Fs.writeFile(file, data.AudioStream, function(err) {
                             if (err) {
                                 return console.log(err)
@@ -57,10 +64,11 @@ var appRouter = function(app) {
                             console.log("The file was saved: " + file + "\n")
 
                             var exec = require('child_process').exec;
-                            var cmd = 'cvlc file:///home/pi/polly/' + file + ' vlc://quit';
+                            var cmd = '/usr/bin/cvlc file://' + file + ' vlc://quit';
 
                             exec(cmd, function(error, stdout, stderr) {});
-                            return res.send("The file was saved and played!")
+			    console.log("got this far");
+                            return res.send(file);
                         })
                     }
                 }
@@ -80,14 +88,14 @@ var appRouter = function(app) {
                 "message": "missing a parameter"
             });
         } else {
-            var args = ['foo', 'bar', 'fbd7e6af7963', queryAsObject.onoff, 'WvKK0A=='];
+            var args = ['foo', 'bar', queryAsObject.id, queryAsObject.onoff, queryAsObject.key];
   	    var exec = require('child_process').exec;
-	    var cmd = '/home/pi/polly/flip-switch.sh ' + queryAsObject.onoff;
+	    var cmd = '/home/pi/polly/flip-switch.sh ' + queryAsObject.id+ ' ' + queryAsObject.onoff + ' ' + queryAsObject.key;
 	    var output = "";
 	    exec(cmd, function(error, stdout, stderr) {output = error + stdout + stderr});
             return res.send("switchmate called: " + output);
         }
-    })
+    });
 }
 
 module.exports = appRouter;
