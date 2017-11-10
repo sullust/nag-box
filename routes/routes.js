@@ -56,18 +56,13 @@ var appRouter = function(app) {
                 } else if (data) {
                     if (data.AudioStream instanceof Buffer) {
                         const uuidV4 = require('uuid/v4');
-                        file = "/home/pi/polly/" + uuidV4() + ".mp3"
+                        file = "/home/pi/polly/audio-files/" + uuidV4() + ".mp3"
                         Fs.writeFile(file, data.AudioStream, function(err) {
                             if (err) {
                                 return console.log(err)
                             }
                             console.log("The file was saved: " + file + "\n")
 
-                            var exec = require('child_process').exec;
-                            var cmd = '/usr/bin/cvlc file://' + file + ' vlc://quit';
-
-                            exec(cmd, function(error, stdout, stderr) {});
-			    console.log("got this far");
                             return res.send(file);
                         })
                     }
